@@ -1,0 +1,42 @@
+<div id="avatar">
+	<img src="images/avatar.jpg" />
+
+.avatar {
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	top: 80px;
+}
+
+img {
+	border-radius: 50%;
+	width: 300px;}
+
+Despite of being a full time
+
+As a university student, it is not just going to class and learn what are being thought.
+Knowing that my adulthood is just another step away, I have made myself well prepared 
+with additional skills that I think it may be needed in the future.
+
+Microsoft Office is the most fundemantals of everything. My skills may include
+Word, Excel and PowerPoint. Along with that, I have found myself has an interest in digital designing 
+and so I have learnt to design using Adobe Illustrator for the purpose in making posters. I am also
+planning to widen this skills and venture more into logo designing. Other software that has catched my
+interest is Adobe Premiere Pro, and it is very convenient to use for video editing.
+
+Apart from softwares that may seems unrelated with engineering, I am also well prepared with 
+some other skills such as LabVIEW which I use for Data Acquisition and SOLIDWORKS for designing 
+mechanical part such as bolt, nut and many more. In term of computer languages, I have acquire
+C++, HTML & CSS and a little bit of Phyton. Frankly speaking, this website I made is from HTML & CSS
+by modifying the code I downloaded from HTML5UP.
+
+Despite being well rounded with academical skills, I am also an active student in term of sport. I 
+play tennis as for my main sport. Other sports may indclude running, badminton, swimming and gymnasium.
+Dancing is also my forte and I have some basic in zapin, inang, boria and some other creative dances. 
+
+<a href="https://twitter.com/home">HTML5 UP</a>
+
+<a href="mailto:mdalimahmud3@gmail.com">
+
+1280x960
